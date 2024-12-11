@@ -1,0 +1,15 @@
+C:\Users\irako\source\repos\Bookstore\Bookstore\Bookstore\Bookstore\bin\Debug\net8.0\Bookstore.exe
+C:\Users\irako\source\repos\Bookstore\Bookstore\Bookstore\Bookstore\bin\Debug\net8.0\Bookstore.deps.json
+C:\Users\irako\source\repos\Bookstore\Bookstore\Bookstore\Bookstore\bin\Debug\net8.0\Bookstore.runtimeconfig.json
+C:\Users\irako\source\repos\Bookstore\Bookstore\Bookstore\Bookstore\bin\Debug\net8.0\Bookstore.dll
+C:\Users\irako\source\repos\Bookstore\Bookstore\Bookstore\Bookstore\bin\Debug\net8.0\Bookstore.pdb
+C:\Users\irako\source\repos\Bookstore\Bookstore\Bookstore\Bookstore\obj\Debug\net8.0\Bookstore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irako\source\repos\Bookstore\Bookstore\Bookstore\Bookstore\obj\Debug\net8.0\Bookstore.AssemblyInfoInputs.cache
+C:\Users\irako\source\repos\Bookstore\Bookstore\Bookstore\Bookstore\obj\Debug\net8.0\Bookstore.AssemblyInfo.cs
+C:\Users\irako\source\repos\Bookstore\Bookstore\Bookstore\Bookstore\obj\Debug\net8.0\Bookstore.csproj.CoreCompileInputs.cache
+C:\Users\irako\source\repos\Bookstore\Bookstore\Bookstore\Bookstore\obj\Debug\net8.0\Bookstore.sourcelink.json
+C:\Users\irako\source\repos\Bookstore\Bookstore\Bookstore\Bookstore\obj\Debug\net8.0\Bookstore.dll
+C:\Users\irako\source\repos\Bookstore\Bookstore\Bookstore\Bookstore\obj\Debug\net8.0\refint\Bookstore.dll
+C:\Users\irako\source\repos\Bookstore\Bookstore\Bookstore\Bookstore\obj\Debug\net8.0\Bookstore.pdb
+C:\Users\irako\source\repos\Bookstore\Bookstore\Bookstore\Bookstore\obj\Debug\net8.0\Bookstore.genruntimeconfig.cache
+C:\Users\irako\source\repos\Bookstore\Bookstore\Bookstore\Bookstore\obj\Debug\net8.0\ref\Bookstore.dll
