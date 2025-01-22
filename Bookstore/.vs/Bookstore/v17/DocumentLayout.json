@@ -11,16 +11,20 @@
       "RelativeMoniker": "D:0:0:{D5E28121-38F3-4D9F-AD92-A33913E90274}|Bookstore\\Bookstore.csproj|solutionrelative:bookstore\\class\\userabstract\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5E28121-38F3-4D9F-AD92-A33913E90274}|Bookstore\\Bookstore.csproj|c:\\users\\irako\\source\\repos\\bookstore\\bookstore\\bookstore\\bookstore\\interfaces\\icustomerrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5E28121-38F3-4D9F-AD92-A33913E90274}|Bookstore\\Bookstore.csproj|solutionrelative:bookstore\\interfaces\\icustomerrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D5E28121-38F3-4D9F-AD92-A33913E90274}|Bookstore\\Bookstore.csproj|c:\\users\\irako\\source\\repos\\bookstore\\bookstore\\bookstore\\bookstore\\interfaces\\iemployeerole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5E28121-38F3-4D9F-AD92-A33913E90274}|Bookstore\\Bookstore.csproj|solutionrelative:bookstore\\interfaces\\iemployeerole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D5E28121-38F3-4D9F-AD92-A33913E90274}|Bookstore\\Bookstore.csproj|c:\\users\\irako\\source\\repos\\bookstore\\bookstore\\bookstore\\bookstore\\interfaces\\irole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5E28121-38F3-4D9F-AD92-A33913E90274}|Bookstore\\Bookstore.csproj|solutionrelative:bookstore\\interfaces\\irole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E28121-38F3-4D9F-AD92-A33913E90274}|Bookstore\\Bookstore.csproj|c:\\users\\irako\\source\\repos\\bookstore\\bookstore\\bookstore\\bookstore\\class\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E28121-38F3-4D9F-AD92-A33913E90274}|Bookstore\\Bookstore.csproj|solutionrelative:bookstore\\class\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E28121-38F3-4D9F-AD92-A33913E90274}|Bookstore\\Bookstore.csproj|c:\\users\\irako\\source\\repos\\bookstore\\bookstore\\bookstore\\bookstore\\interfaces\\icustomerrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E28121-38F3-4D9F-AD92-A33913E90274}|Bookstore\\Bookstore.csproj|solutionrelative:bookstore\\interfaces\\icustomerrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +34,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{7f40df72-066b-4810-a08b-c0fbed76c948}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\irako\\source\\repos\\Bookstore\\Bookstore\\Bookstore\\Bookstore\\class\\User.cs",
+              "RelativeDocumentMoniker": "Bookstore\\class\\User.cs",
+              "ToolTip": "C:\\Users\\irako\\source\\repos\\Bookstore\\Bookstore\\Bookstore\\Bookstore\\class\\User.cs",
+              "RelativeToolTip": "Bookstore\\class\\User.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAmwI8AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T08:38:39.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "IRole.cs",
               "DocumentMoniker": "C:\\Users\\irako\\source\\repos\\Bookstore\\Bookstore\\Bookstore\\Bookstore\\Interfaces\\IRole.cs",
               "RelativeDocumentMoniker": "Bookstore\\Interfaces\\IRole.cs",
@@ -47,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "IEmployeeRole.cs",
               "DocumentMoniker": "C:\\Users\\irako\\source\\repos\\Bookstore\\Bookstore\\Bookstore\\Bookstore\\Interfaces\\IEmployeeRole.cs",
               "RelativeDocumentMoniker": "Bookstore\\Interfaces\\IEmployeeRole.cs",
@@ -66,7 +87,7 @@
               "RelativeDocumentMoniker": "Bookstore\\class\\userAbstract\\Employee.cs",
               "ToolTip": "C:\\Users\\irako\\source\\repos\\Bookstore\\Bookstore\\Bookstore\\Bookstore\\class\\userAbstract\\Employee.cs",
               "RelativeToolTip": "Bookstore\\class\\userAbstract\\Employee.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAgwCIAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-15T09:41:25.986Z",
               "EditorCaption": ""
@@ -79,14 +100,14 @@
               "RelativeDocumentMoniker": "Bookstore\\class\\userAbstract\\Customer.cs",
               "ToolTip": "C:\\Users\\irako\\source\\repos\\Bookstore\\Bookstore\\Bookstore\\Bookstore\\class\\userAbstract\\Customer.cs",
               "RelativeToolTip": "Bookstore\\class\\userAbstract\\Customer.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-22T08:20:08.329Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "ICustomerRole.cs",
               "DocumentMoniker": "C:\\Users\\irako\\source\\repos\\Bookstore\\Bookstore\\Bookstore\\Bookstore\\Interfaces\\ICustomerRole.cs",
               "RelativeDocumentMoniker": "Bookstore\\Interfaces\\ICustomerRole.cs",
@@ -96,10 +117,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-22T08:13:49.775Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{7f40df72-066b-4810-a08b-c0fbed76c948}"
             }
           ]
         }

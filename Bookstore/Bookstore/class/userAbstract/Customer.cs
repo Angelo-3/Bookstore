@@ -1,6 +1,8 @@
-﻿namespace Bookstore.@class
+﻿using Bookstore.Interfaces;
+
+namespace Bookstore.@class
 {
-    public class Customer : User
+    public class Customer : User, ICustomerRole
     {
         private List<Discount> associatedDiscounts = new List<Discount>();
         public IReadOnlyList<Discount> getAssociatedDiscounts() => associatedDiscounts.AsReadOnly();
@@ -25,7 +27,7 @@
             Address = address;
         }
 
-        public void addDiscount(Discount discount)
+        public override void addDiscount(Discount discount)
         {
             if (!associatedDiscounts.Contains(discount))
             {
@@ -33,6 +35,12 @@
                 discount.addCustomer(this);
             }
         }
+
+        public override void assignOrder(Order order)
+        {
+            throw new NotImplementedException();
+        }
+
         public void removeDiscount(Discount discount)
         {
             if (associatedDiscounts.Contains(discount))

@@ -1,6 +1,8 @@
-﻿namespace Bookstore.@class
+﻿using Bookstore.Interfaces; 
+
+namespace Bookstore.@class
 {
-    public class Employee : User
+    public class Employee : User, IEmployeeRole
     {
         private List<Order> associatedOrders = new List<Order>();
         public IReadOnlyList<Order> getAssociatedOrders() => associatedOrders.AsReadOnly();
@@ -24,7 +26,7 @@
         {
             Position = position;
         }
-        public void assignOrder(Order order)
+        public override void assignOrder(Order order)
         {
             if (!associatedOrders.Contains(order))
             {
@@ -32,6 +34,12 @@
                 order.assignEmployeeWhoProcesses(this);
             }
         }
+
+        public override void addDiscount(Discount discount)
+        {
+            throw new NotImplementedException();
+        }
+
         public void removeAssignedOrder(Order order)
         {
             if (associatedOrders.Contains(order))
