@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\irako\\source\\repos\\Bookstore\\Bookstore\\Bookstore\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E28121-38F3-4D9F-AD92-A33913E90274}|Bookstore\\Bookstore.csproj|c:\\users\\irako\\source\\repos\\bookstore\\bookstore\\bookstore\\bookstore\\class\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E28121-38F3-4D9F-AD92-A33913E90274}|Bookstore\\Bookstore.csproj|solutionrelative:bookstore\\class\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E28121-38F3-4D9F-AD92-A33913E90274}|Bookstore\\Bookstore.csproj|c:\\users\\irako\\source\\repos\\bookstore\\bookstore\\bookstore\\bookstore\\class\\userabstract\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E28121-38F3-4D9F-AD92-A33913E90274}|Bookstore\\Bookstore.csproj|solutionrelative:bookstore\\class\\userabstract\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +18,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{7f40df72-066b-4810-a08b-c0fbed76c948}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\irako\\source\\repos\\Bookstore\\Bookstore\\Bookstore\\Bookstore\\class\\Order.cs",
+              "RelativeDocumentMoniker": "Bookstore\\class\\Order.cs",
+              "ToolTip": "C:\\Users\\irako\\source\\repos\\Bookstore\\Bookstore\\Bookstore\\Bookstore\\class\\Order.cs",
+              "RelativeToolTip": "Bookstore\\class\\Order.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T09:43:39.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\irako\\source\\repos\\Bookstore\\Bookstore\\Bookstore\\Bookstore\\class\\userAbstract\\Employee.cs",
+              "RelativeDocumentMoniker": "Bookstore\\class\\userAbstract\\Employee.cs",
+              "ToolTip": "C:\\Users\\irako\\source\\repos\\Bookstore\\Bookstore\\Bookstore\\Bookstore\\class\\userAbstract\\Employee.cs",
+              "RelativeToolTip": "Bookstore\\class\\userAbstract\\Employee.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T09:41:25.986Z",
+              "EditorCaption": ""
             }
           ]
         }

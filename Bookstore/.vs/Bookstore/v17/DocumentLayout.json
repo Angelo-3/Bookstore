@@ -1,7 +1,28 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\irako\\source\\repos\\Bookstore\\Bookstore\\Bookstore\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E28121-38F3-4D9F-AD92-A33913E90274}|Bookstore\\Bookstore.csproj|c:\\users\\irako\\source\\repos\\bookstore\\bookstore\\bookstore\\bookstore\\class\\userabstract\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E28121-38F3-4D9F-AD92-A33913E90274}|Bookstore\\Bookstore.csproj|solutionrelative:bookstore\\class\\userabstract\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E28121-38F3-4D9F-AD92-A33913E90274}|Bookstore\\Bookstore.csproj|c:\\users\\irako\\source\\repos\\bookstore\\bookstore\\bookstore\\bookstore\\class\\userabstract\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E28121-38F3-4D9F-AD92-A33913E90274}|Bookstore\\Bookstore.csproj|solutionrelative:bookstore\\class\\userabstract\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E28121-38F3-4D9F-AD92-A33913E90274}|Bookstore\\Bookstore.csproj|c:\\users\\irako\\source\\repos\\bookstore\\bookstore\\bookstore\\bookstore\\interfaces\\icustomerrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E28121-38F3-4D9F-AD92-A33913E90274}|Bookstore\\Bookstore.csproj|solutionrelative:bookstore\\interfaces\\icustomerrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E28121-38F3-4D9F-AD92-A33913E90274}|Bookstore\\Bookstore.csproj|c:\\users\\irako\\source\\repos\\bookstore\\bookstore\\bookstore\\bookstore\\interfaces\\iemployeerole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E28121-38F3-4D9F-AD92-A33913E90274}|Bookstore\\Bookstore.csproj|solutionrelative:bookstore\\interfaces\\iemployeerole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E28121-38F3-4D9F-AD92-A33913E90274}|Bookstore\\Bookstore.csproj|c:\\users\\irako\\source\\repos\\bookstore\\bookstore\\bookstore\\bookstore\\interfaces\\irole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E28121-38F3-4D9F-AD92-A33913E90274}|Bookstore\\Bookstore.csproj|solutionrelative:bookstore\\interfaces\\irole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +30,73 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRole.cs",
+              "DocumentMoniker": "C:\\Users\\irako\\source\\repos\\Bookstore\\Bookstore\\Bookstore\\Bookstore\\Interfaces\\IRole.cs",
+              "RelativeDocumentMoniker": "Bookstore\\Interfaces\\IRole.cs",
+              "ToolTip": "C:\\Users\\irako\\source\\repos\\Bookstore\\Bookstore\\Bookstore\\Bookstore\\Interfaces\\IRole.cs",
+              "RelativeToolTip": "Bookstore\\Interfaces\\IRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T08:26:26.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEmployeeRole.cs",
+              "DocumentMoniker": "C:\\Users\\irako\\source\\repos\\Bookstore\\Bookstore\\Bookstore\\Bookstore\\Interfaces\\IEmployeeRole.cs",
+              "RelativeDocumentMoniker": "Bookstore\\Interfaces\\IEmployeeRole.cs",
+              "ToolTip": "C:\\Users\\irako\\source\\repos\\Bookstore\\Bookstore\\Bookstore\\Bookstore\\Interfaces\\IEmployeeRole.cs",
+              "RelativeToolTip": "Bookstore\\Interfaces\\IEmployeeRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T08:23:18.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\irako\\source\\repos\\Bookstore\\Bookstore\\Bookstore\\Bookstore\\class\\userAbstract\\Employee.cs",
+              "RelativeDocumentMoniker": "Bookstore\\class\\userAbstract\\Employee.cs",
+              "ToolTip": "C:\\Users\\irako\\source\\repos\\Bookstore\\Bookstore\\Bookstore\\Bookstore\\class\\userAbstract\\Employee.cs",
+              "RelativeToolTip": "Bookstore\\class\\userAbstract\\Employee.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwCIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T09:41:25.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\irako\\source\\repos\\Bookstore\\Bookstore\\Bookstore\\Bookstore\\class\\userAbstract\\Customer.cs",
+              "RelativeDocumentMoniker": "Bookstore\\class\\userAbstract\\Customer.cs",
+              "ToolTip": "C:\\Users\\irako\\source\\repos\\Bookstore\\Bookstore\\Bookstore\\Bookstore\\class\\userAbstract\\Customer.cs",
+              "RelativeToolTip": "Bookstore\\class\\userAbstract\\Customer.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T08:20:08.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICustomerRole.cs",
+              "DocumentMoniker": "C:\\Users\\irako\\source\\repos\\Bookstore\\Bookstore\\Bookstore\\Bookstore\\Interfaces\\ICustomerRole.cs",
+              "RelativeDocumentMoniker": "Bookstore\\Interfaces\\ICustomerRole.cs",
+              "ToolTip": "C:\\Users\\irako\\source\\repos\\Bookstore\\Bookstore\\Bookstore\\Bookstore\\Interfaces\\ICustomerRole.cs",
+              "RelativeToolTip": "Bookstore\\Interfaces\\ICustomerRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T08:13:49.775Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{7f40df72-066b-4810-a08b-c0fbed76c948}"
